@@ -13,6 +13,10 @@ A call center trends dashboard has to be designed to provide real-time insights 
 
 <img width="637" alt="Screenshot 2023-03-12 234832" src="https://user-images.githubusercontent.com/126397614/224567331-6eb62fd3-7ad7-46f0-9b6b-016eee67bfe7.png">
 
+<img width="633" alt="Agent Analysis" src="https://user-images.githubusercontent.com/126397614/224567474-0ae5a984-a9cb-467f-b203-879b9134a8de.png">
+
+<img width="628" alt="Call Time Analysis" src="https://user-images.githubusercontent.com/126397614/224567477-e52077ed-a133-4716-a2cf-420e88d28d2b.png">
+
 
 
 
