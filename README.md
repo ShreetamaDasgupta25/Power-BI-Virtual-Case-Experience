@@ -26,9 +26,9 @@ A customer retention dashboard has to be prepared to track and analyze the churn
 
 <img width="629" alt="Customer Churn Analysis" src="https://user-images.githubusercontent.com/126397614/224567746-a5389de4-9515-4c74-9175-79f97ea9bfc4.png">
 
-<img width="636" alt="Services and Churn" src="https://user-images.githubusercontent.com/126397614/224567924-0de9d13f-7653-4035-a9e5-0bc4f2c86b0b.png">
-
 <img width="638" alt="Churn Details" src="https://user-images.githubusercontent.com/126397614/224567744-a6d197c0-d042-40c0-92aa-246a17328673.png">
+
+<img width="636" alt="Services and Churn" src="https://user-images.githubusercontent.com/126397614/224567924-0de9d13f-7653-4035-a9e5-0bc4f2c86b0b.png">
 
 <img width="637" alt="Customer Insights" src="https://user-images.githubusercontent.com/126397614/224567748-ece2e3c3-7db5-486a-b618-e3a498174a8c.png">
 
