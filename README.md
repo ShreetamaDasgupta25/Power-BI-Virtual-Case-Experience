@@ -28,11 +28,11 @@ A customer retention dashboard has to be prepared to track and analyze the churn
 
 A diversity and inclusion dashboard has to be made which can be used by the company  to track and measure their diversity and inclusion efforts since the company is interested in creating a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world.
 
-<img width="638" alt="Churn Details" src="https://user-images.githubusercontent.com/126397614/224567744-a6d197c0-d042-40c0-92aa-246a17328673.png">
-
 <img width="629" alt="Customer Churn Analysis" src="https://user-images.githubusercontent.com/126397614/224567746-a5389de4-9515-4c74-9175-79f97ea9bfc4.png">
+
+<img width="638" alt="Churn Details" src="https://user-images.githubusercontent.com/126397614/224567744-a6d197c0-d042-40c0-92aa-246a17328673.png">
 
 <img width="637" alt="Customer Insights" src="https://user-images.githubusercontent.com/126397614/224567748-ece2e3c3-7db5-486a-b618-e3a498174a8c.png">
 
-<img width="636" alt="Services and Churn" src="https://user-images.githubusercontent.com/126397614/224567750-8f5e7c64-fcfe-4741-8639-569c2a8371a0.png">
+
 
